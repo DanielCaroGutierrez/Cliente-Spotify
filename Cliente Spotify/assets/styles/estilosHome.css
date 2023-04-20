@@ -1,0 +1,11 @@
+.banner{
+    background-image: url("../img/Avenged\ Sevenfold.jpg");
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25%;
+}
+.menu{
+
+    background-color: rgba(91, 96, 120, 0.76);
+}
